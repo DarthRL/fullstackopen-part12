@@ -1,0 +1,199 @@
+脚本启动于 2023-08-28 13:46:01-02:30 [TERM="rxvt-unicode-256color" TTY="/dev/pts/0" COLUMNS="104" LINES="62"]
+[m[49m[39m[27m[24m[K
+
+[2A7[m[49m[39m[m[49m[38;5;11m[m[38;5;11m[48;5;11m[38;5;0m [m[38;5;0m[48;5;11m[48;5;11m[38;5;0m [m[38;5;0m[48;5;11m[48;5;14m[38;5;11m[m[38;5;11m[48;5;14m[48;5;14m[38;5;255m  [1m[38;5;255m[48;5;14m[38;5;255m~[m[38;5;255m[48;5;14m[48;5;14m[38;5;255m/[1m[38;5;255m[48;5;14m[38;5;255mpart12-containers-applications[m[38;5;255m[48;5;14m[48;5;14m[38;5;255m[m[38;5;255m[48;5;14m[48;5;14m[38;5;255m [m[38;5;255m[48;5;14m[49m[38;5;14m[m[38;5;14m[49m[39m[38;5;240m─────────────────────────────────────────[m[38;5;240m[49m[38;5;7m[m[38;5;7m[48;5;7m[38;5;0m 13:46:01[m[38;5;0m[48;5;7m[48;5;7m[38;5;0m [m[38;5;0m[48;5;7m[48;5;7m[38;5;0m [49m[38;5;7m[m[38;5;7m[48;5;7m[38;5;0m[m[38;5;0m[48;5;7m[49m[39m
+[m[49m[39m[m[49m[38;5;6mあす[m[38;5;6m[49m[38;5;6m[m[38;5;6m[49m[38;5;0m[m[38;5;0m[49m[39m [m[49m[39m[?25l8[m[38;5;255m[49m[39m[27m[24m[J[m[27m[24m[J[m[49m[39m
+[A[m[49m[38;5;11m[m[38;5;11m[48;5;11m[38;5;0m [m[38;5;0m[48;5;11m[48;5;11m[38;5;0m [m[38;5;0m[48;5;11m[48;5;14m[38;5;11m[m[38;5;11m[48;5;14m[48;5;14m[38;5;255m  [1m[38;5;255m[48;5;14m[38;5;255m~[m[38;5;255m[48;5;14m[48;5;14m[38;5;255m/[1m[38;5;255m[48;5;14m[38;5;255mpart12-containers-applications[m[38;5;255m[48;5;14m[48;5;14m[38;5;255m[m[38;5;255m[48;5;14m[48;5;14m[38;5;255m [m[38;5;255m[48;5;14m[48;5;2m[38;5;14m[m[38;5;14m[48;5;2m[48;5;2m[38;5;0m  [38;5;0m main [38;5;0m?6[m[38;5;0m[48;5;2m[48;5;2m[38;5;0m [m[38;5;0m[48;5;2m[49m[38;5;2m[m[38;5;2m[49m[39m[38;5;240m────────────────────────[m[38;5;240m[49m[38;5;7m[m[38;5;7m[48;5;7m[38;5;0m 13:46:01[m[38;5;0m[48;5;7m[48;5;7m[38;5;0m [m[38;5;0m[48;5;7m[48;5;7m[38;5;0m [49m[38;5;7m[m[38;5;7m[48;5;7m[38;5;0m[m[38;5;0m[48;5;7m[49m[39m
+[m[49m[39m[m[49m[38;5;6mあす[m[38;5;6m[49m[38;5;6m[m[38;5;6m[49m[38;5;0m[m[38;5;0m[49m[39m [m[49m[39m[K=[?12l[?25h[?2004hdd[38;5;12mocker start -i dreamy_herschel[39m[30Dd[39mo[39mc[39mk[39me[39mr[39m [39ms[39mt[39ma[39mr[39mt[39m [39m-[39mi[39m [39md[39mr[39me[39ma[39mm[39my[39m_[39mh[39me[39mr[39ms[39mc[39mh[39me[39ml>[?25l[?2004l[A[m[27m[24m[J[m[49m[27m[24m[38;5;6mあす[m[38;5;6m[49m[39m[27m[24m docker start -i dreamy_herschel[K[?12l[?25h
+[?2004h]0;root@bc131015a8ce: /root@bc131015a8ce:/# [7mcurl -sL https://deb.nodesource.com/setup_16.x | bash [27m]0;root@bc131015a8ce: /root@bc131015a8ce:/# curl -sL https://deb.nodesource.com/setup_16.x | bash 
+[?2004lbash: curl: command not found
+[?2004h]0;root@bc131015a8ce: /root@bc131015a8ce:/# [Kapt-t get install curl
+[?2004lReading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 6%Reading package lists... 6%Reading package lists... 7%Reading package lists... 7%Reading package lists... 70%Reading package lists... 70%Reading package lists... 71%Reading package lists... 71%Reading package lists... 76%Reading package lists... 76%Reading package lists... 80%Reading package lists... 80%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 87%Reading package lists... 87%Reading package lists... 87%Reading package lists... 87%Reading package lists... 90%Reading package lists... 90%Reading package lists... 94%Reading package lists... 94%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+The following additional packages will be installed:
+  ca-certificates libbrotli1 libcurl4 libldap-2.5-0 libldap-common libnghttp2-14 libpsl5 librtmp1
+  libsasl2-2 libsasl2-modules libsasl2-modules-db libssh-4 openssl publicsuffix
+Suggested packages:
+  libsasl2-modules-gssapi-mit | libsasl2-modules-gssapi-heimdal libsasl2-modules-ldap
+  libsasl2-modules-otp libsasl2-modules-sql
+The following NEW packages will be installed:
+  ca-certificates curl libbrotli1 libcurl4 libldap-2.5-0 libldap-common libnghttp2-14 libpsl5 librtmp1
+  libsasl2-2 libsasl2-modules libsasl2-modules-db libssh-4 openssl publicsuffix
+0 upgraded, 15 newly installed, 0 to remove and 2 not upgraded.
+Need to get 2987 kB of archives.
+After this operation, 7124 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+0% [Working]            Get:1 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 openssl amd64 3.0.2-0ubuntu1.10 [1183 kB]
+0% [1 openssl 13.6 kB/1183 kB 1%]7% [1 openssl 257 kB/1183 kB 22%]                                 33% [Working]             Get:2 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 ca-certificates all 20230311ubuntu0.22.04.1 [155 kB]
+35% [2 ca-certificates 61.4 kB/155 kB 40%]                                          39% [Waiting for headers]                         Get:3 http://archive.ubuntu.com/ubuntu jammy/main amd64 libnghttp2-14 amd64 1.43.0-1build3 [76.3 kB]
+39% [3 libnghttp2-14 23.3 kB/76.3 kB 31%]                                         42% [Waiting for headers]                         Get:4 http://archive.ubuntu.com/ubuntu jammy/main amd64 libpsl5 amd64 0.21.0-1.2build2 [58.4 kB]
+42% [4 libpsl5 936 B/58.4 kB 2%]                                45% [Waiting for headers]                         Get:5 http://archive.ubuntu.com/ubuntu jammy/main amd64 publicsuffix all 20211207.1025-1 [129 kB]
+45% [5 publicsuffix 12.0 kB/129 kB 9%]                                      50% [Waiting for headers]                         Get:6 http://archive.ubuntu.com/ubuntu jammy/main amd64 libbrotli1 amd64 1.0.9-2build6 [315 kB]
+50% [6 libbrotli1 3394 B/315 kB 1%]                                   59% [Waiting for headers]                         Get:7 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libsasl2-modules-db amd64 2.1.27+dfsg2-3ubuntu1.2 [20.5 kB]
+60% [7 libsasl2-modules-db 16.4 kB/20.5 kB 80%]                                               61% [Waiting for headers]                         Get:8 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libsasl2-2 amd64 2.1.27+dfsg2-3ubuntu1.2 [53.8 kB]
+62% [8 libsasl2-2 9823 B/53.8 kB 18%]                                     64% [Waiting for headers]                         Get:9 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libldap-2.5-0 amd64 2.5.16+dfsg-0ubuntu0.22.04.1 [183 kB]
+64% [9 libldap-2.5-0 4358 B/183 kB 2%]                                      70% [Waiting for headers]                         Get:10 http://archive.ubuntu.com/ubuntu jammy/main amd64 librtmp1 amd64 2.4+20151223.gitfa8646d.1-2build4 [58.2 kB]
+71% [10 librtmp1 24.3 kB/58.2 kB 42%]                                     73% [Waiting for headers]                         Get:11 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libssh-4 amd64 0.9.6-2ubuntu0.22.04.1 [185 kB]
+74% [11 libssh-4 13.6 kB/185 kB 7%]                                   79% [Working]             Get:12 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libcurl4 amd64 7.81.0-1ubuntu1.13 [290 kB]
+80% [12 libcurl4 13.6 kB/290 kB 5%]                                   89% [Working]             Get:13 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 curl amd64 7.81.0-1ubuntu1.13 [194 kB]
+89% [13 curl 30.3 kB/194 kB 16%]                                95% [Waiting for headers]                         Get:14 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libldap-common all 2.5.16+dfsg-0ubuntu0.22.04.1 [15.8 kB]
+95% [14 libldap-common 4096 B/15.8 kB 26%]                                          97% [Waiting for headers]                         Get:15 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 libsasl2-modules amd64 2.1.27+dfsg2-3ubuntu1.2 [68.8 kB]
+97% [15 libsasl2-modules 8895 B/68.8 kB 13%]                                            100% [Working]              Fetched 2987 kB in 2s (1736 kB/s)
+debconf: delaying package configuration, since apt-utils is not installed
+Selecting previously unselected package openssl.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 4468 files and directories currently installed.)
+Preparing to unpack .../00-openssl_3.0.2-0ubuntu1.10_amd64.deb ...
+Unpacking openssl (3.0.2-0ubuntu1.10) ...
+Selecting previously unselected package ca-certificates.
+Preparing to unpack .../01-ca-certificates_20230311ubuntu0.22.04.1_all.deb ...
+Unpacking ca-certificates (20230311ubuntu0.22.04.1) ...
+Selecting previously unselected package libnghttp2-14:amd64.
+Preparing to unpack .../02-libnghttp2-14_1.43.0-1build3_amd64.deb ...
+Unpacking libnghttp2-14:amd64 (1.43.0-1build3) ...
+Selecting previously unselected package libpsl5:amd64.
+Preparing to unpack .../03-libpsl5_0.21.0-1.2build2_amd64.deb ...
+Unpacking libpsl5:amd64 (0.21.0-1.2build2) ...
+Selecting previously unselected package publicsuffix.
+Preparing to unpack .../04-publicsuffix_20211207.1025-1_all.deb ...
+Unpacking publicsuffix (20211207.1025-1) ...
+Selecting previously unselected package libbrotli1:amd64.
+Preparing to unpack .../05-libbrotli1_1.0.9-2build6_amd64.deb ...
+Unpacking libbrotli1:amd64 (1.0.9-2build6) ...
+Selecting previously unselected package libsasl2-modules-db:amd64.
+Preparing to unpack .../06-libsasl2-modules-db_2.1.27+dfsg2-3ubuntu1.2_amd64.deb ...
+Unpacking libsasl2-modules-db:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+Selecting previously unselected package libsasl2-2:amd64.
+Preparing to unpack .../07-libsasl2-2_2.1.27+dfsg2-3ubuntu1.2_amd64.deb ...
+Unpacking libsasl2-2:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+Selecting previously unselected package libldap-2.5-0:amd64.
+Preparing to unpack .../08-libldap-2.5-0_2.5.16+dfsg-0ubuntu0.22.04.1_amd64.deb ...
+Unpacking libldap-2.5-0:amd64 (2.5.16+dfsg-0ubuntu0.22.04.1) ...
+Selecting previously unselected package librtmp1:amd64.
+Preparing to unpack .../09-librtmp1_2.4+20151223.gitfa8646d.1-2build4_amd64.deb ...
+Unpacking librtmp1:amd64 (2.4+20151223.gitfa8646d.1-2build4) ...
+Selecting previously unselected package libssh-4:amd64.
+Preparing to unpack .../10-libssh-4_0.9.6-2ubuntu0.22.04.1_amd64.deb ...
+Unpacking libssh-4:amd64 (0.9.6-2ubuntu0.22.04.1) ...
+Selecting previously unselected package libcurl4:amd64.
+Preparing to unpack .../11-libcurl4_7.81.0-1ubuntu1.13_amd64.deb ...
+Unpacking libcurl4:amd64 (7.81.0-1ubuntu1.13) ...
+Selecting previously unselected package curl.
+Preparing to unpack .../12-curl_7.81.0-1ubuntu1.13_amd64.deb ...
+Unpacking curl (7.81.0-1ubuntu1.13) ...
+Selecting previously unselected package libldap-common.
+Preparing to unpack .../13-libldap-common_2.5.16+dfsg-0ubuntu0.22.04.1_all.deb ...
+Unpacking libldap-common (2.5.16+dfsg-0ubuntu0.22.04.1) ...
+Selecting previously unselected package libsasl2-modules:amd64.
+Preparing to unpack .../14-libsasl2-modules_2.1.27+dfsg2-3ubuntu1.2_amd64.deb ...
+Unpacking libsasl2-modules:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+Setting up libpsl5:amd64 (0.21.0-1.2build2) ...
+Setting up libbrotli1:amd64 (1.0.9-2build6) ...
+Setting up libsasl2-modules:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+Setting up libnghttp2-14:amd64 (1.43.0-1build3) ...
+Setting up libldap-common (2.5.16+dfsg-0ubuntu0.22.04.1) ...
+Setting up libsasl2-modules-db:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+Setting up librtmp1:amd64 (2.4+20151223.gitfa8646d.1-2build4) ...
+Setting up libsasl2-2:amd64 (2.1.27+dfsg2-3ubuntu1.2) ...
+Setting up libssh-4:amd64 (0.9.6-2ubuntu0.22.04.1) ...
+Setting up openssl (3.0.2-0ubuntu1.10) ...
+Setting up publicsuffix (20211207.1025-1) ...
+Setting up libldap-2.5-0:amd64 (2.5.16+dfsg-0ubuntu0.22.04.1) ...
+Setting up ca-certificates (20230311ubuntu0.22.04.1) ...
+debconf: unable to initialize frontend: Dialog
+debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 78.)
+debconf: falling back to frontend: Readline
+debconf: unable to initialize frontend: Readline
+debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC contains: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.34.0 /usr/local/share/perl/5.34.0 /usr/lib/x86_64-linux-gnu/perl5/5.34 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl-base /usr/lib/x86_64-linux-gnu/perl/5.34 /usr/share/perl/5.34 /usr/local/lib/site_perl) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 7.)
+debconf: falling back to frontend: Teletype
+Updating certificates in /etc/ssl/certs...
+137 added, 0 removed; done.
+Setting up libcurl4:amd64 (7.81.0-1ubuntu1.13) ...
+Setting up curl (7.81.0-1ubuntu1.13) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.1) ...
+Processing triggers for ca-certificates (20230311ubuntu0.22.04.1) ...
+Updating certificates in /etc/ssl/certs...
+0 added, 0 removed; done.
+Running hooks in /etc/ca-certificates/update.d...
+done.
+[?2004h]0;root@bc131015a8ce: /root@bc131015a8ce:/# apt-get install curlcurl -sL https://deb.nodesource.com/setup_16.x | bash 
+[?2004l
+## Installing the NodeSource Node.js 16.x repo...
+
+
+## Populating apt-get cache...
+
++ apt-get update
+0% [Working]            Hit:1 http://archive.ubuntu.com/ubuntu jammy InRelease
+0% [Waiting for headers] [Connecting to security.ubuntu.com (185.125.190.39)]                                                                             Hit:2 http://archive.ubuntu.com/ubuntu jammy-updates InRelease
+                                                                             0% [Connecting to security.ubuntu.com (185.125.190.39)]                                                       Hit:3 http://archive.ubuntu.com/ubuntu jammy-backports InRelease
+0% [Connecting to security.ubuntu.com (185.125.190.39)]0% [Connecting to security.ubuntu.com (185.125.190.39)]                                                       0% [Waiting for headers]                        Hit:4 http://security.ubuntu.com/ubuntu jammy-security InRelease
+                        0% [Working]0% [Working]20% [Working]             Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 6%Reading package lists... 6%Reading package lists... 7%Reading package lists... 7%Reading package lists... 70%Reading package lists... 70%Reading package lists... 71%Reading package lists... 71%Reading package lists... 76%Reading package lists... 76%Reading package lists... 80%Reading package lists... 80%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 87%Reading package lists... 87%Reading package lists... 87%Reading package lists... 87%Reading package lists... 90%Reading package lists... 90%Reading package lists... 94%Reading package lists... 94%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+
+## Installing packages required for setup: lsb-release gnupg...
+
++ apt-get install -y lsb-release gnupg > /dev/null 2>&1
+
+## Confirming "jammy" is supported...
+
++ curl -sLf -o /dev/null 'https://deb.nodesource.com/node_16.x/dists/jammy/Release'
+
+## Adding the NodeSource signing key to your keyring...
+
++ curl -s https://deb.nodesource.com/gpgkey/nodesource.gpg.key | gpg --dearmor | tee /usr/share/keyrings/nodesource.gpg >/dev/null
+
+## Creating apt sources list file for the NodeSource Node.js 16.x repo...
+
++ echo 'deb [signed-by=/usr/share/keyrings/nodesource.gpg] https://deb.nodesource.com/node_16.x jammy main' > /etc/apt/sources.list.d/nodesource.list
++ echo 'deb-src [signed-by=/usr/share/keyrings/nodesource.gpg] https://deb.nodesource.com/node_16.x jammy main' >> /etc/apt/sources.list.d/nodesource.list
+
+## Running `apt-get update` for you...
+
++ apt-get update
+0% [Working]            Hit:1 http://security.ubuntu.com/ubuntu jammy-security InRelease
+0% [Waiting for headers] [Connected to deb.nodesource.com (142.176.208.161)]                                                                            Hit:2 http://archive.ubuntu.com/ubuntu jammy InRelease
+0% [Waiting for headers] [Connected to deb.nodesource.com (142.176.208.161)]                                                                            Hit:3 http://archive.ubuntu.com/ubuntu jammy-updates InRelease
+                                                                            0% [Waiting for headers]                        Hit:4 http://archive.ubuntu.com/ubuntu jammy-backports InRelease
+0% [Waiting for headers]0% [Waiting for headers]                        Get:5 https://deb.nodesource.com/node_16.x jammy InRelease [4583 B]
+0% [5 InRelease 4583 B/4583 B 100%]                                   0% [Working]0% [Working]0% [Working]0% [Working]88% [Working]88% [Waiting for headers]88% [Waiting for headers]88% [Waiting for headers]88% [Waiting for headers]88% [Waiting for headers]88% [Waiting for headers]88% [Waiting for headers]88% [Waiting for headers]88% [Waiting for headers]88% [Waiting for headers]88% [Waiting for headers]                                                                    757 B/s 1s88% [Waiting for headers]                                                                    757 B/s 1s                                                                                                       Get:6 https://deb.nodesource.com/node_16.x jammy/main amd64 Packages [776 B]
+100% [6 Packages 776 B/776 B 100%]                                                           757 B/s 0s100% [Working]                                                                               757 B/s 0s100% [6 Packages store 0 B]                                                                  757 B/s 0s100% [Working]                                                                               757 B/s 0s                                                                                                       Fetched 5359 B in 7s (797 B/s)
+Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 6%Reading package lists... 6%Reading package lists... 7%Reading package lists... 7%Reading package lists... 70%Reading package lists... 70%Reading package lists... 71%Reading package lists... 71%Reading package lists... 76%Reading package lists... 76%Reading package lists... 80%Reading package lists... 80%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 87%Reading package lists... 87%Reading package lists... 90%Reading package lists... 90%Reading package lists... 94%Reading package lists... 94%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+
+## Run `[1msudo apt-get install -y nodejs(B[m` to install Node.js 16.x and npm
+## You may also need development tools to build native addons:
+     sudo apt-get install gcc g++ make
+## To install the Yarn package manager, run:
+     curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | gpg --dearmor | sudo tee /usr/share/keyrings/yarnkey.gpg >/dev/null
+     echo "deb [signed-by=/usr/share/keyrings/yarnkey.gpg] https://dl.yarnpkg.com/debian stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+     sudo apt-get update && sudo apt-get install yarn
+
+
+[?2004h]0;root@bc131015a8ce: /root@bc131015a8ce:/# [K[7mapt install -y nodejs[27mapt install -y nodejs
+[?2004lReading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 6%Reading package lists... 6%Reading package lists... 7%Reading package lists... 7%Reading package lists... 70%Reading package lists... 70%Reading package lists... 71%Reading package lists... 71%Reading package lists... 76%Reading package lists... 76%Reading package lists... 80%Reading package lists... 80%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 86%Reading package lists... 87%Reading package lists... 87%Reading package lists... 90%Reading package lists... 90%Reading package lists... 94%Reading package lists... 94%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 2%Reading state information... Done
+The following NEW packages will be installed:
+  nodejs
+0 upgraded, 1 newly installed, 0 to remove and 2 not upgraded.
+Need to get 27.2 MB of archives.
+After this operation, 128 MB of additional disk space will be used.
+[33m0% [Working][0m[33m0% [Connecting to deb.nodesource.com][0m[33m0% [Connecting to deb.nodesource.com][0m[33m0% [Connecting to deb.nodesource.com][0m                                     Get:1 https://deb.nodesource.com/node_16.x jammy/main amd64 nodejs amd64 16.20.2-deb-1nodesource1 [27.2 MB]
+[33m                                     0% [1 nodejs 15.8 kB/27.2 MB 0%][0m[33m21% [1 nodejs 7094 kB/27.2 MB 26%][0m[33m39% [1 nodejs 13.2 MB/27.2 MB 49%][0m[33m51% [1 nodejs 17.2 MB/27.2 MB 63%][0m[33m66% [1 nodejs 22.4 MB/27.2 MB 82%][0m[33m77% [1 nodejs 26.1 MB/27.2 MB 96%][0m[33m                                  100% [Working][0m              Fetched 27.2 MB in 5s (5872 kB/s)
+debconf: delaying package configuration, since apt-utils is not installed
+
+7[0;61r8[1ASelecting previously unselected package nodejs.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 6041 files and directories currently installed.)
+Preparing to unpack .../nodejs_16.20.2-deb-1nodesource1_amd64.deb ...
+7[62;0f[42m[30mProgress: [  0%][49m[39m [..................................................................................] 87[62;0f[42m[30mProgress: [ 20%][49m[39m [################..................................................................] 8Unpacking nodejs (16.20.2-deb-1nodesource1) ...
+7[62;0f[42m[30mProgress: [ 40%][49m[39m [################################..................................................] 8Setting up nodejs (16.20.2-deb-1nodesource1) ...
+7[62;0f[42m[30mProgress: [ 60%][49m[39m [#################################################.................................] 87[62;0f[42m[30mProgress: [ 80%][49m[39m [#################################################################.................] 8
+7[0;62r8[1A[J[?2004h]0;root@bc131015a8ce: /root@bc131015a8ce:/# [7mnode /usr/src/app/index.js[27mnode /usr/src/app/index.js
+[?2004lHello World
+[?2004h]0;root@bc131015a8ce: /root@bc131015a8ce:/# [Kexit
+[?2004lexit
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[m[49m[39m
+
+[A[m[49m[38;5;11m[m[38;5;11m[48;5;11m[38;5;0m [m[38;5;0m[48;5;11m[48;5;11m[38;5;0m [m[38;5;0m[48;5;11m[48;5;14m[38;5;11m[m[38;5;11m[48;5;14m[48;5;14m[38;5;255m  [1m[38;5;255m[48;5;14m[38;5;255m~[m[38;5;255m[48;5;14m[48;5;14m[38;5;255m/[1m[38;5;255m[48;5;14m[38;5;255mpart12-containers-applications[m[38;5;255m[48;5;14m[48;5;14m[38;5;255m[m[38;5;255m[48;5;14m[48;5;14m[38;5;255m [m[38;5;255m[48;5;14m[48;5;2m[38;5;14m[m[38;5;14m[48;5;2m[48;5;2m[38;5;0m  [38;5;0m main [38;5;0m?6[m[38;5;0m[48;5;2m[48;5;2m[38;5;0m [m[38;5;0m[48;5;2m[49m[38;5;2m[m[38;5;2m[49m[39m[38;5;240m────────────[m[38;5;240m[49m[38;5;3m[m[38;5;3m[48;5;3m[38;5;0m 1m 5s[m[38;5;0m[48;5;3m[48;5;3m[38;5;0m [m[38;5;0m[48;5;3m[48;5;3m[38;5;0m [m[38;5;0m[48;5;3m[48;5;3m[38;5;0m[38;5;7m[m[38;5;7m[48;5;3m[48;5;7m[38;5;0m 13:47:13[m[38;5;0m[48;5;7m[48;5;7m[38;5;0m [m[38;5;0m[48;5;7m[48;5;7m[38;5;0m [49m[38;5;7m[m[38;5;7m[48;5;7m[38;5;0m[m[38;5;0m[48;5;7m[49m[39m
+[m[49m[39m[m[49m[38;5;6mあす[m[38;5;6m[49m[38;5;6m[m[38;5;6m[49m[38;5;0m[m[38;5;0m[49m[39m [m[49m[39m[K=[?2004hee[38;5;12mxit[39me[39mx[39mi[39mt>[?25l[?2004l[A[A[m[27m[24m[J[m[49m[27m[24m[38;5;6mあす[m[38;5;6m[49m[39m[27m[24m exit[K[?12l[?25h
+
+脚本完成于 2023-08-28 13:47:14-02:30 [COMMAND_EXIT_CODE="0"]
