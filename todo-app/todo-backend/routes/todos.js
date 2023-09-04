@@ -19,10 +19,6 @@ router.post('/', async (req, res) => {
   res.send(todo)
 })
 
-router.get('/statistics', async (_, res) => {
-  res.send(await redis.getAsync('added_todos'))
-})
-
 const singleRouter = express.Router()
 
 const findByIdMiddleware = async (req, res, next) => {
