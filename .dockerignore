@@ -1,0 +1,2 @@
+.dockerignore .gitignore node_modules Dockerfile todo-app
+
