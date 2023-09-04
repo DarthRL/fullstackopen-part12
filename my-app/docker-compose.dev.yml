@@ -1,0 +1,24 @@
+services:
+  app:
+    image: bloglist-frontend-dev
+    volumes:
+      - ./bloglist-frontend:/usr/src/app # The path can be relative, so ./ is enough to say "the same location as the docker-compose.yml"
+    container_name: bloglist-frontend-dev
+    ports:
+      - 3000:3000
+
+  server:
+    image: bloglist-backend-dev
+    volumes:
+      - ./bloglist-backend:/usr/src/app # The path can be relative, so ./ is enough to say "the same location as the docker-compose.yml"
+    container_name: server
+
+  nginx:
+    image: nginx:1.20.1
+    volumes:
+      - ./nginx.dev.conf:/etc/nginx/nginx.conf:ro
+    ports:
+      - 8080:80
+    container_name: reverse-proxy
+    depends_on:
+      - app # wait for the frontend container to be started
