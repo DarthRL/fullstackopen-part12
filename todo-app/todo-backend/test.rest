@@ -2,3 +2,11 @@ PUT http://localhost:3000/todos/64f5344b94db332d3e4d3828
 content-type: application/json
 
 {"done":false}
+###
+POST http://localhost:3000/todos
+content-type: application/json
+
+{"text":"new1"}
+###
+DELETE http://localhost:3000/todos/64f620e653f49836933cb049
+content-type: application/json
